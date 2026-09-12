@@ -1,3 +1,4 @@
+
 // Function vs Variable Hoisting
 console.log("1a:", myVar);
 console.log("1b:", myFunc);
